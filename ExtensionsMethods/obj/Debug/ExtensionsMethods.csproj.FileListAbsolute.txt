@@ -1,0 +1,14 @@
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe.config
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.pdb
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.AssemblyReference.cache
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.CoreCompileInputs.cache
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.exe
+D:\Training programs\VS repos\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.pdb
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe.config
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.exe
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\bin\Debug\ExtensionsMethods.pdb
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.csprojAssemblyReference.cache
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.csproj.CoreCompileInputs.cache
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.exe
+D:\lesson\Dot.net\Lab2.NET\ExtensionsMethods\obj\Debug\ExtensionsMethods.pdb
